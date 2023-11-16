@@ -1,0 +1,11 @@
+*{
+padding: 0;
+margin: 0;
+}
+header{
+    background-color: rgb(80, 156, 255);
+    font-size: 18px;
+}
+body{
+    text-align: center;
+}
